@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bio Link - Zakir Ashraf</title>
+    <link rel="stylesheet" type="text/css" href="styles.css"> <!-- Link to the CSS file -->
+</head>
+<body>
+    <div class="container">
+        <!-- Profile Picture -->
+        <img class="profile-image" src="images/zakirashraf1.jpg" alt="Zakir Ashraf">
+
+        <!-- Bio/Description -->
+        <div class="bio">
+            Hello, I'm Zakir Ashraf, a Computer Engineering Student. Connect with me on social media or via email.
+        </div>
+
+        <!-- Social Media Links -->
+        <div class="links">
+            <a class="link linkedin" href="https://www.linkedin.com/in/zakir-ashraf" target="_blank">LinkedIn</a>
+            <a class="link instagram" href="https://www.instagram.com/zakirashraf_" target="_blank">Instagram</a>
+            <a class="link email" href="mailto:zakirashraf01@gmail.com" target="_blank">Email</a>
+        </div>
+    </div>
+</body>
+</html>
